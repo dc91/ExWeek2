@@ -21,7 +21,7 @@ namespace ExWeek2
 
         public string Print()
         {
-            return $"{Author}, {Name}, {Pages}";
+            return $"{Author}, {Name}, {Pages} pages";
         }
 
     }
